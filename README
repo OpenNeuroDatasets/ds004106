@@ -72,6 +72,7 @@ In each block, the image-ID pairings were presented at one of six different stoc
 ranging from 1 to 25 per minute (1, 2.5, 10, 15, 20, and 25 per minute).
 The queuing rate varied within each block according to a predefined profile.
 The rate profile had randomly permuted epochs of each queuing rate.
+
 Each epoch lasted 30 s with approximately twice as many low rate epochs (1 and 2.5 image-IDs per minute) as high.
 The rate profiles were shifted for each participant (Latin square design) so that each rate profile
 was assigned to every block for at least two participants. The current rate was indicated through
